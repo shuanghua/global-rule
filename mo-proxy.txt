@@ -73,6 +73,7 @@ payload:
   - DOMAIN-KEYWORD,bulianglin
   - DOMAIN-KEYWORD,oaichat
   - DOMAIN-KEYWORD,epoch
+  - DOMAIN-KEYWORD,figma
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,dmp-c.socoms.net
