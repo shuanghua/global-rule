@@ -1,0 +1,93 @@
+payload:
+  - DOMAIN-SUFFIX,google.com
+
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,insert-koin.io
+
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,githubusercontent
+
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,battlemetrics.com
+  - DOMAIN-SUFFIX,btloader.com
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,mcc-mnc.com
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN,www.redditstatic.com
+  - DOMAIN,catalog.gamepass.com
+  - DOMAIN,www.battlemetrics.com
+  - DOMAIN,www.wagnardsoft.com
+  - DOMAIN,v2rayssr.com
+  - DOMAIN,sourceforge.net
+  - DOMAIN,sqlite.org
+  - DOMAIN,www.utorrent.com
+  - DOMAIN,www.vspeed.org
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-KEYWORD,jsdelivr
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,octotree
+  - DOMAIN-KEYWORD,deepl
+  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-KEYWORD,woocommerce
+  - DOMAIN-KEYWORD,ctfassets
+  - DOMAIN-KEYWORD,hbzb
+  - DOMAIN-KEYWORD,accuweather
+  - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,survivetheark
+  - DOMAIN-KEYWORD,intellij
+  - DOMAIN-KEYWORD,nvidiagrid
+  - DOMAIN-KEYWORD,arkservers
+  - DOMAIN-KEYWORD,drawboard
+  - DOMAIN-KEYWORD,olevod
+  - DOMAIN-KEYWORD,appsflyer
+  - DOMAIN-KEYWORD,igaming
+  - DOMAIN-KEYWORD,adjust
+  - DOMAIN-KEYWORD,ogs-gcm
+  - DOMAIN-KEYWORD,apk-dl
+  - DOMAIN-KEYWORD,ph-646
+  - DOMAIN-KEYWORD,291bet
+  - DOMAIN-KEYWORD,apkcombo
+  - DOMAIN-KEYWORD,playzee
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,discord
+  - DOMAIN-KEYWORD,cdn-lfs-us
+  - DOMAIN-KEYWORD,ip.sb
+  - DOMAIN-KEYWORD,getadblock
+  - DOMAIN-KEYWORD,adblockplus
+  - DOMAIN-KEYWORD,proandroiddev
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-KEYWORD,ntp.org
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-KEYWORD,cloudfront
+  - DOMAIN-KEYWORD,razer
+  - DOMAIN-KEYWORD,razerzone
+  - DOMAIN-KEYWORD,razersynapse
+  - DOMAIN-KEYWORD,bulianglin
+  - DOMAIN-KEYWORD,oaichat
+  - DOMAIN-KEYWORD,epoch
+  - DOMAIN-KEYWORD,figma
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,dmp-c.socoms.net
+  - DOMAIN-SUFFIX,websitevisitorleads.com
+  - DOMAIN-SUFFIX,hcfy.ai
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,salesforceliveagent.com
+  - DOMAIN-SUFFIX,vidyard.com
+  - DOMAIN-SUFFIX,ispot.tv
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN-SUFFIX,evgnet.com
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,salesforce-scrt.com
+
+
+
+

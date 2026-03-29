@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,nn.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,weibo.cn
+  - DOMAIN-KEYWORD,ximalaya
+  - DOMAIN-KEYWORD,netease
+  - DOMAIN-KEYWORD,ithome
+  - DOMAIN-KEYWORD,yinghua
+  - DOMAIN-KEYWORD,com.cn
+  - DOMAIN-KEYWORD,nel.goog
+  - DOMAIN-KEYWORD,msn.cn
+  - DOMAIN-KEYWORD,msn.com
+  - DOMAIN-KEYWORD,romielf
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,666java.com
+  - DOMAIN-SUFFIX,36kr.com
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-KEYWORD,leigod
+  - DOMAIN-SUFFIX,gov.cn
+  - DOMAIN-KEYWORD,desaysv
+
