@@ -1,0 +1,11 @@
+payload:
+  - PROCESS-NAME,leigod.exe,DIRECT
+  - PROCESS-NAME,leishenSdk.exe,DIRECT
+  - PROCESS-NAME,wegame.exe,DIRECT
+  - PROCESS-NAME,browser.exe,DIRECT
+  - PROCESS-NAME,wegame_env.exe,DIRECT
+  - PROCESS-NAME,rail.exe,DIRECT
+  - PROCESS-NAME,DeltaForceClient-Win64-Shipping.exe,DIRECT
+  - PROCESS-NAME,League of Legends.exe,DIRECT
+  - PROCESS-NAME,QQLiveService.exe,DIRECT
+  - PROCESS-NAME,QQ.exe,DIRECT
