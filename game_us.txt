@@ -1,0 +1,4 @@
+payload:
+  - PROCESS-NAME,ArkAscended.exe
+  - PROCESS-NAME,ArkAscended_BE.exe
+  - PROCESS-NAME,CrossProxy.exe
